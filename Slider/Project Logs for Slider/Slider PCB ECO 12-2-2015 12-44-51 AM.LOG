@@ -1,0 +1,35 @@
+Added Component: Designator=CON1(RoundSensorCon)
+Added Pin To Net: NetName=NetCON1_1 Pin=CON1-1
+Added Net: Name=NetCON1_1
+Added Pin To Net: NetName=NetCON1_2 Pin=CON1-2
+Added Net: Name=NetCON1_2
+Added Pin To Net: NetName=NetCON1_3 Pin=CON1-3
+Added Net: Name=NetCON1_3
+Added Pin To Net: NetName=NetCON1_4 Pin=CON1-4
+Added Net: Name=NetCON1_4
+Added Pin To Net: NetName=NetCON1_5 Pin=CON1-5
+Added Net: Name=NetCON1_5
+Added Pin To Net: NetName=NetCON1_6 Pin=CON1-6
+Added Net: Name=NetCON1_6
+Added Pin To Net: NetName=NetCON1_7 Pin=CON1-7
+Added Net: Name=NetCON1_7
+Added Pin To Net: NetName=NetCON1_8 Pin=CON1-8
+Added Net: Name=NetCON1_8
+Added Pin To Net: NetName=NetCON1_9 Pin=CON1-9
+Added Net: Name=NetCON1_9
+Added Pin To Net: NetName=NetCON1_10 Pin=CON1-10
+Added Net: Name=NetCON1_10
+Added Pin To Net: NetName=NetCON1_11 Pin=CON1-11
+Added Net: Name=NetCON1_11
+Added Pin To Net: NetName=NetCON1_12 Pin=CON1-12
+Added Net: Name=NetCON1_12
+Added Pin To Net: NetName=NetCON1_13 Pin=CON1-13
+Added Net: Name=NetCON1_13
+Added Pin To Net: NetName=NetCON1_14 Pin=CON1-14
+Added Net: Name=NetCON1_14
+Added Pin To Net: NetName=NetCON1_15 Pin=CON1-15
+Added Net: Name=NetCON1_15
+Added Pin To Net: NetName=NetCON1_16 Pin=CON1-16
+Added Net: Name=NetCON1_16
+Added Class: Name=Slider
+Added Room: Name=Slider

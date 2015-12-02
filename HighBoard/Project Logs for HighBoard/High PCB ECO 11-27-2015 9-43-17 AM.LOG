@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=CON3 Old Footprint=PIPE New Footprint=PIPE_SMALL
+Added Pin To Net: NetName=NetCON2_1 Pin=CON2-1
+Added Net: Name=NetCON2_1
+Added Pin To Net: NetName=NetCON2_2 Pin=CON2-2
+Added Net: Name=NetCON2_2
+Added Pin To Net: NetName=NetCON2_3 Pin=CON2-3
+Added Net: Name=NetCON2_3
+Added Pin To Net: NetName=NetCON2_4 Pin=CON2-4
+Added Net: Name=NetCON2_4
+Added Pin To Net: NetName=NetCON2_5 Pin=CON2-5
+Added Net: Name=NetCON2_5
+Added Room: Name=High

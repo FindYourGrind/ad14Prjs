@@ -1,0 +1,49 @@
+Added Component: Designator=T1(TOUCH)
+Added Component: Designator=T2(TOUCH)
+Added Component: Designator=T3(TOUCH)
+Added Component: Designator=T4(TOUCH)
+Added Component: Designator=T5(TOUCH)
+Added Component: Designator=T6(TOUCH)
+Added Component: Designator=T7(TOUCH)
+Added Component: Designator=T8(TOUCH)
+Added Component: Designator=T9(TOUCH)
+Added Component: Designator=T10(TOUCH)
+Added Component: Designator=T11(TOUCH)
+Added Component: Designator=T12(TOUCH)
+Added Component: Designator=T13(TOUCH)
+Added Component: Designator=T14(TOUCH)
+Added Component: Designator=T15(TOUCH)
+Added Component: Designator=T16(TOUCH)
+Added Pin To Net: NetName=NetCON1_1 Pin=T1-1
+Added Pin To Net: NetName=NetCON1_2 Pin=T2-1
+Added Pin To Net: NetName=NetCON1_3 Pin=T3-1
+Added Pin To Net: NetName=NetCON1_4 Pin=T4-1
+Added Pin To Net: NetName=NetCON1_5 Pin=T5-1
+Added Pin To Net: NetName=NetCON1_6 Pin=T6-1
+Added Pin To Net: NetName=NetCON1_7 Pin=T7-1
+Added Pin To Net: NetName=NetCON1_8 Pin=T8-1
+Added Pin To Net: NetName=NetCON1_9 Pin=T9-1
+Added Pin To Net: NetName=NetCON1_10 Pin=T10-1
+Added Pin To Net: NetName=NetCON1_11 Pin=T11-1
+Added Pin To Net: NetName=NetCON1_12 Pin=T12-1
+Added Pin To Net: NetName=NetCON1_13 Pin=T13-1
+Added Pin To Net: NetName=NetCON1_14 Pin=T14-1
+Added Pin To Net: NetName=NetCON1_15 Pin=T15-1
+Added Pin To Net: NetName=NetCON1_16 Pin=T16-1
+Added Member To Class: ClassName=Slider Member=Component CON1 RoundSensorCon
+Added Member To Class: ClassName=Slider Member=Component T1 Touch
+Added Member To Class: ClassName=Slider Member=Component T2 Touch
+Added Member To Class: ClassName=Slider Member=Component T3 Touch
+Added Member To Class: ClassName=Slider Member=Component T4 Touch
+Added Member To Class: ClassName=Slider Member=Component T5 Touch
+Added Member To Class: ClassName=Slider Member=Component T6 Touch
+Added Member To Class: ClassName=Slider Member=Component T7 Touch
+Added Member To Class: ClassName=Slider Member=Component T8 Touch
+Added Member To Class: ClassName=Slider Member=Component T9 Touch
+Added Member To Class: ClassName=Slider Member=Component T10 Touch
+Added Member To Class: ClassName=Slider Member=Component T11 Touch
+Added Member To Class: ClassName=Slider Member=Component T12 Touch
+Added Member To Class: ClassName=Slider Member=Component T13 Touch
+Added Member To Class: ClassName=Slider Member=Component T14 Touch
+Added Member To Class: ClassName=Slider Member=Component T15 Touch
+Added Member To Class: ClassName=Slider Member=Component T16 Touch
