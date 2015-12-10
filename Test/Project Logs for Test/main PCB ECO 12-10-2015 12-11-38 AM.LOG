@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=CON2 Old Footprint=DEBUG_PIPE_TOP_ONLY New Footprint=PIPE_top_only
+Change Component Footprint: Designator=CON4 Old Footprint=EXTPIPE New Footprint=DEBUG_PIPE_TOP_ONLY

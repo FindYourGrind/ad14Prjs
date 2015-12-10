@@ -1,0 +1,663 @@
+{COMPONENT PROTEL.PCB
+  {ENVIRONMENT PROTEL.SCH}
+  {DETAIL
+    {SUBCOMP
+      {I ANTENNA.PRT A1
+        {CN
+        1 NetA1_1
+        2 NetA1_2
+        }
+      }
+      {I 1608[0603].PRT C1
+        {CN
+        1 NetC1_1
+        2 GND
+        }
+      }
+      {I 1608[0603].PRT C2
+        {CN
+        1 GND
+        2 NetC2_2
+        }
+      }
+      {I 1608[0603].PRT C3
+        {CN
+        1 GND
+        2 NetC3_2
+        }
+      }
+      {I CAP_0805.PRT C5
+        {CN
+        1 GND
+        2 +3V
+        }
+      }
+      {I 1608[0603].PRT C6
+        {CN
+        1 GND
+        2 +3V
+        }
+      }
+      {I CAP_1206.PRT C7
+        {CN
+        1 GND
+        2 +3V
+        }
+      }
+      {I 1608[0603].PRT C8
+        {CN
+        1 GND
+        2 +3V
+        }
+      }
+      {I 1608[0603].PRT C9
+        {CN
+        1 GND
+        2 NetC9_2
+        }
+      }
+      {I 1608[0603].PRT C10
+        {CN
+        1 GND
+        2 +3V
+        }
+      }
+      {I 1608[0603].PRT C11
+        {CN
+        1 GND
+        2 +3V
+        }
+      }
+      {I 1608[0603].PRT C12
+        {CN
+        1 GND
+        2 +3V
+        }
+      }
+      {I 1608[0603].PRT C13
+        {CN
+        1 GND
+        2 +3V
+        }
+      }
+      {I 1608[0603].PRT C14
+        {CN
+        1 GND
+        2 +3V
+        }
+      }
+      {I 1608[0603].PRT C15
+        {CN
+        1 GND
+        2 +3V
+        }
+      }
+      {I 1608[0603].PRT C16
+        {CN
+        1 GND
+        2 +3V
+        }
+      }
+      {I CAP_0805.PRT C20
+        {CN
+        1 GND
+        2 NetC20_2
+        }
+      }
+      {I 1608[0603].PRT C21
+        {CN
+        1 NetC21_1
+        2 GND
+        }
+      }
+      {I 1608[0603].PRT C22
+        {CN
+        1 GND
+        2 NetC22_2
+        }
+      }
+      {I 1608[0603].PRT C23
+        {CN
+        1 GND
+        2 NetC23_2
+        }
+      }
+      {I 1608[0603].PRT C24
+        {CN
+        1 GND
+        2 NetC24_2
+        }
+      }
+      {I CAP_0805.PRT C30
+        {CN
+        1 +5V
+        2 GND
+        }
+      }
+      {I CAP_1206.PRT C31
+        {CN
+        1 GND
+        2 NetC31_2
+        }
+      }
+      {I 1608[0603].PRT C32
+        {CN
+        1 GND
+        2 NetC32_2
+        }
+      }
+      {I 1608[0603].PRT C33
+        {CN
+        1 GND
+        2 NetC33_2
+        }
+      }
+      {I 1608[0603].PRT C34
+        {CN
+        1 GND
+        2 NetC34_2
+        }
+      }
+      {I 1608[0603].PRT C38
+        {CN
+        1 GND
+        2 +3V
+        }
+      }
+      {I CAP_0805.PRT C39
+        {CN
+        1 GND
+        2 +3V
+        }
+      }
+      {I OLED_SNMALL.PRT CON1
+        {CN
+        1 NetCON1_1
+        2 NetCON1_2
+        3 NetCON1_3
+        4 NetCON1_4
+        5 NetCON1_5
+        6 +3V
+        7 GND
+        }
+      }
+      {I PIPE_top_only.PRT CON2
+        {CN
+        1 GND
+        2 NetCON2_2
+        3 NetCON2_3
+        4 NetCON2_4
+        5 NetCON2_5
+        6 NetCON2_6
+        7 NetCON2_7
+        8 NetCON2_8
+        9 NetCON2_9
+       10 NetCON2_10
+       11 NetCON2_11
+       12 +3V
+        }
+      }
+      {I Batterey.PRT CON3
+        {CN
+        1 NetC31_2
+        2 GND
+        }
+      }
+      {I DEBUG_PIPE_TOP_ONLY.PRT CON4
+        {CN
+        1 +5V
+        2 NetCON4_2
+        3 NetC3_2
+        4 NetCON4_4
+        5 NetCON4_5
+        6 NetCON4_6
+        7 NetCON4_7
+        8 NetCON4_8
+        9 NetCON4_9
+       10 NetCON4_10
+       11 NetCON4_11
+       12 GND
+        }
+      }
+      {I LED0603.PRT D1
+        {CN
+        1 NetD1_1
+        2 GND
+        }
+      }
+      {I LED0603.PRT D2
+        {CN
+        1 NetD2_1
+        2 GND
+        }
+      }
+      {I LED0603.PRT D3
+        {CN
+        1 NetD3_1
+        2 GND
+        }
+      }
+      {I LED0603.PRT D4
+        {CN
+        1 NetD4_1
+        2 GND
+        }
+      }
+      {I LED0603.PRT D5
+        {CN
+        1 NetD5_1
+        2 GND
+        }
+      }
+      {I LED0603.PRT D6
+        {CN
+        1 NetD6_1
+        2 GND
+        }
+      }
+      {I LED0603.PRT D7
+        {CN
+        1 NetD7_1
+        2 GND
+        }
+      }
+      {I LED0603.PRT D8
+        {CN
+        1 NetD8_1
+        2 GND
+        }
+      }
+      {I RES_0402.PRT R1
+        {CN
+        1 NetCON2_3
+        2 NetD1_1
+        }
+      }
+      {I RES_0402.PRT R2
+        {CN
+        1 NetCON2_4
+        2 NetD2_1
+        }
+      }
+      {I RES_0402.PRT R3
+        {CN
+        1 NetCON2_5
+        2 NetD3_1
+        }
+      }
+      {I RES_0402.PRT R4
+        {CN
+        1 NetCON2_6
+        2 NetD4_1
+        }
+      }
+      {I RES_0402.PRT R5
+        {CN
+        1 NetCON2_7
+        2 NetD5_1
+        }
+      }
+      {I RES_0402.PRT R6
+        {CN
+        1 NetCON2_8
+        2 NetD6_1
+        }
+      }
+      {I RES_0402.PRT R7
+        {CN
+        1 NetCON2_9
+        2 NetD7_1
+        }
+      }
+      {I RES_0402.PRT R8
+        {CN
+        1 NetCON2_10
+        2 NetD8_1
+        }
+      }
+      {I RES_0402.PRT R9
+        {CN
+        1 NetR9_1
+        2 GND
+        }
+      }
+      {I RES_0402.PRT R10
+        {CN
+        1 NetC3_2
+        2 +3V
+        }
+      }
+      {I RES_0402.PRT R11
+        {CN
+        1 NetR11_1
+        2 GND
+        }
+      }
+      {I RES_0402.PRT R12
+        {CN
+        1 NetC9_2
+        2 NetCON4_4
+        }
+      }
+      {I RES_0402.PRT R25
+        {CN
+        1 NetR25_1
+        2 GND
+        }
+      }
+      {I RES_0402.PRT R26
+        {CN
+        1 NetCON4_7
+        2 NetR26_2
+        }
+      }
+      {I RES_0402.PRT R27
+        {CN
+        1 NetCON4_6
+        2 NetR27_2
+        }
+      }
+      {I RES_0402.PRT R30
+        {CN
+        1 NetR30_1
+        2 GND
+        }
+      }
+      {I RES_0402.PRT R31
+        {CN
+        1 NetR31_1
+        2 GND
+        }
+      }
+      {I RES_0402.PRT R32
+        {CN
+        1 NetR32_1
+        2 GND
+        }
+      }
+      {I RES_0402.PRT R33
+        {CN
+        1 +3V
+        2 NetR33_2
+        }
+      }
+      {I RES_0402.PRT R34
+        {CN
+        1 +3V
+        2 NetR34_2
+        }
+      }
+      {I RES_0402.PRT R39
+        {CN
+        1 NetR39_1
+        2 NetC32_2
+        }
+      }
+      {I RES_0402.PRT R40
+        {CN
+        1 NetR40_1
+        2 NetC32_2
+        }
+      }
+      {I RES_0402.PRT R45
+        {CN
+        1 NetR45_1
+        2 GND
+        }
+      }
+      {I RES_0402.PRT R46
+        {CN
+        1 NetR46_1
+        2 NetR46_2
+        }
+      }
+      {I RES_0402.PRT R47
+        {CN
+        1 NetR47_1
+        2 NetC31_2
+        }
+      }
+      {I RES_0402.PRT R48
+        {CN
+        1 NetR47_1
+        2 GND
+        }
+      }
+      {I RES_0402.PRT R50
+        {CN
+        1 NetR50_1
+        2 NetCON4_8
+        }
+      }
+      {I LQFP64_L.PRT U1
+        {CN
+        1 +3V
+        2 NetCON2_8
+        3 NetCON2_9
+        4 NetCON2_10
+        5 NetC1_1
+        6 NetC2_2
+        7 NetC3_2
+        8 NetR39_1
+        9 NetU1_9
+       10 NetR40_1
+       11 NetU1_11
+       12 GND
+       13 +3V
+       14 NetR46_1
+       15 NetR47_1
+       16 NetU1_16
+       17 NetU1_17
+       18 GND
+       19 +3V
+       20 NetCON1_3
+       21 NetCON1_5
+       22 NetCON1_2
+       23 NetCON1_4
+       24 NetU1_24
+       25 NetU1_25
+       26 NetCON2_11
+       27 NetCON2_2
+       28 NetU1_28
+       29 NetR50_1
+       30 NetU1_30
+       31 GND
+       32 +3V
+       33 NetU1_33
+       34 NetU1_34
+       35 NetU1_35
+       36 NetU1_36
+       37 NetU1_37
+       38 NetU1_38
+       39 NetCON2_3
+       40 NetCON2_4
+       41 NetCON1_1
+       42 NetR27_2
+       43 NetR26_2
+       44 NetU1_44
+       45 NetU1_45
+       46 NetCON4_11
+       47 GND
+       48 +3V
+       49 NetCON4_2
+       50 NetU1_50
+       51 NetCON2_5
+       52 NetCON2_6
+       53 NetCON2_7
+       54 NetU1_54
+       55 NetU1_55
+       56 NetU1_56
+       57 NetU1_57
+       58 NetR34_2
+       59 NetR33_2
+       60 NetR9_1
+       61 NetU1_61
+       62 NetU1_62
+       63 GND
+       64 +3V
+        }
+      }
+      {I ESP8266-12Q.PRT U2
+        {CN
+        1 NetCON4_8
+        2 NetU2_2
+        3 NetU1_30
+        4 NetU2_4
+        5 NetU2_5
+        6 NetU2_6
+        7 NetU2_7
+        8 +3V
+        9 NetU1_33
+       10 NetU1_35
+       11 NetU2_11
+       12 NetU2_12
+       13 NetU1_36
+       14 NetU1_34
+       15 GND
+       16 NetR25_1
+       17 NetU2_17
+       18 NetCON4_5
+       19 NetU2_19
+       20 NetU2_20
+       21 NetCON4_6
+       22 NetCON4_7
+        }
+      }
+      {I RHA40_4P5X4P5.PRT U3
+        {CN
+        1 GND
+        2 NetU3_2
+        3 NetU3_3
+        4 NetU3_4
+        5 NetU1_57
+        6 NetU1_56
+        7 NetU1_55
+        8 NetU1_28
+        9 NetU3_9
+       10 +3V
+       11 NetR46_2
+       12 NetU3_12
+       13 NetU3_13
+       14 NetU3_14
+       15 NetU3_15
+       16 NetU1_17
+       17 NetU1_16
+       18 NetU3_18
+       19 NetU3_19
+       20 NetC9_2
+       21 +3V
+       22 NetC22_2
+       23 NetC21_1
+       24 +3V
+       25 NetU3_25
+       26 NetU3_26
+       27 +3V
+       28 +3V
+       29 +3V
+       30 NetR11_1
+       31 +3V
+       32 NetC24_2
+       33 NetC23_2
+       34 NetCON4_10
+       35 NetCON4_9
+       36 NetU3_36
+       37 NetU3_37
+       38 NetU3_38
+       39 +3V
+       40 NetC20_2
+       41 GND
+        }
+      }
+      {I 2450BM15A0002E.PRT U4
+        {CN
+        1 NetA1_1
+        2 GND
+        3 NetU3_26
+        4 NetU3_25
+        5 GND
+        6 GND
+        }
+      }
+      {I VQFN16.PRT U5
+        {CN
+        1 NetR45_1
+        2 NetC31_2
+        3 NetC31_2
+        4 NetU1_9
+        5 NetU1_24
+        6 NetU1_11
+        7 NetR39_1
+        8 GND
+        9 NetR40_1
+       10 NetC32_2
+       11 NetC32_2
+       12 NetR30_1
+       13 +5V
+       14 NetR31_1
+       15 NetU1_25
+       16 NetR32_1
+        }
+      }
+      {I SOT23-5L.PRT U6
+        {CN
+        1 NetC32_2
+        2 GND
+        3 NetC32_2
+        4 NetC33_2
+        5 +3V
+        }
+      }
+      {I SOT23-5L.PRT U7
+        {CN
+        1 NetC32_2
+        2 GND
+        3 NetC32_2
+        4 NetC34_2
+        5 +3V
+        }
+      }
+      {I LGA16.PRT U8
+        {CN
+        1 +3V
+        2 NetU8_2
+        3 NetU8_3
+        4 NetR34_2
+        5 GND
+        6 NetR33_2
+        7 NetU1_62
+        8 NetU1_61
+        9 NetU8_9
+       10 GND
+       11 NetU8_11
+       12 GND
+       13 GND
+       14 GND
+       15 GND
+       16 +3V
+        }
+      }
+      {I XTAL.PRT X1
+        {CN
+        1 NetC21_1
+        2 GND
+        3 NetC22_2
+        4 GND
+        }
+      }
+      {I XTAL.PRT X2
+        {CN
+        1 NetC1_1
+        2 GND
+        3 NetC2_2
+        4 GND
+        }
+      }
+      {I QUARZ32768.PRT Y3
+        {CN
+        1 NetC23_2
+        2 NetC24_2
+        }
+      }
+    }
+  }
+}
