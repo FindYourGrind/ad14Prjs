@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Slider_v2.PcbDoc   12/13/2015  12:34:17 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Slider_v2.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        30mil (0.762mm)          Round          16               6.26 Inch (158.98 mm)
+---------------------------------------------------------------------------
+Totals                                            16               6.26 Inch (158.98 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

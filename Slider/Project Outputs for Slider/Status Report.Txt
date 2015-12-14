@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Slider.PrjPCB]
+   Generated File[Slider_v2.GTL]
+   Generated File[Slider_v2.GBL]
+   Generated File[Slider_v2.GTS]
+   Generated File[Slider_v2.GBS]
+   Generated File[Slider_v2.GM1]
+   Generated File[Slider_v2.RUL]
+   Generated File[Slider_v2.EXTREP]
+   Generated File[Slider_v2.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 12:36:38 AM On 12/13/2015

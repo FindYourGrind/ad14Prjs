@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: main.GBR   12/11/2015  12:54:18 AM
+Gerber File Extension Report For: main.GBR   12/13/2015  12:44:10 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -8,9 +8,7 @@ Layer Extension     Layer Description
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
 .GBL                Bottom Layer                            
-.GTP                Top Paste                               
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
-.GBP                Bottom Paste                            
 .GM1                Mechanical 1                            
 ------------------------------------------------------------------------------------------
